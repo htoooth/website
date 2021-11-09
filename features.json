@@ -30,6 +30,11 @@
 			"url": "https://github.com/WebAssembly/module-linking/blob/master/proposals/module-linking/Explainer.md",
 			"phase": 1
 		},
+		"multiMemory": {
+			"description": "Multi-memory",
+			"url": "https://github.com/WebAssembly/multi-memory/blob/master/proposals/multi-memory/Overview.md",
+			"phase": 3
+		},
 		"multiValue": {
 			"description": "Multi-value",
 			"url": "https://github.com/WebAssembly/spec/blob/master/proposals/multi-value/Overview.md",
@@ -133,6 +138,7 @@
 				"bulkMemory": true,
 				"memory64": "--enable-memory64",
 				"moduleLinking": "--enable-module-linking",
+				"multiMemory": true,
 				"multiValue": true,
 				"mutableGlobals": true,
 				"referenceTypes": true,
