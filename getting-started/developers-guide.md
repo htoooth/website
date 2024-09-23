@@ -24,6 +24,7 @@ layout: getting-started
   - [Zig](https://ziglang.org/documentation/master/#WebAssembly)
   - [Grain](https://grain-lang.org/docs/)
   - Python (via [Pyodide](https://pyodide.org/en/stable/) or [Nuitka (py2wasm)](https://github.com/wasmerio/py2wasm))
+  - [MoonBit](https://docs.moonbitlang.com/)
 - Use the compiled WebAssembly...
   - [from JavaScript code](https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running)
   - [as a CLI application](https://github.com/bytecodealliance/wasmtime/blob/master/docs/WASI-tutorial.md)
